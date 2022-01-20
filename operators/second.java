@@ -3,10 +3,13 @@ package com.operators;
 import java.util.Scanner;
 
 public class second {
+
+    //increment operator increases the value by 1
     static int increment(int a) {
         return a + 1;
     }
 
+    //decrement operator decreases the value by 1
     static int decrement(int a) {
         return a - 1;
     }
